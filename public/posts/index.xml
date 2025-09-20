@@ -2,41 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Max&#39;s Life in Australia</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:62616/posts/</link>
     <description>Recent content in Posts on Max&#39;s Life in Australia</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 Mar 2024 10:00:00 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62616/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Day 1: Landing in Melbourne</title>
-      <link>http://localhost:1313/posts/day-1-arrival-melbourne/</link>
+      <title>417 Working Holiday Visa: From Application to Departure</title>
+      <link>http://localhost:62616/posts/day-1-arrival-melbourne/</link>
       <pubDate>Fri, 15 Mar 2024 10:00:00 +1100</pubDate>
-      <guid>http://localhost:1313/posts/day-1-arrival-melbourne/</guid>
-      <description>&lt;h2 id=&#34;just-landed&#34;&gt;Just Landed&lt;/h2&gt;
-&lt;p&gt;Finally made it to Melbourne after the long journey via Singapore.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Today&amp;rsquo;s essentials:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ Got local SIM card&lt;/li&gt;
-&lt;li&gt;✅ Found dinner&lt;/li&gt;
-&lt;li&gt;✅ Made it to hostel&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The airport was bigger than expected, and everyone&amp;rsquo;s accent is definitely going to take some getting used to!&lt;/p&gt;
-&lt;p&gt;First meal: grabbed something quick near the hostel. Too tired to be picky.&lt;/p&gt;
-&lt;p&gt;Tomorrow: figure out the city layout and maybe find a proper coffee.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Travel Experience: From Application to Melbourne</title>
-      <link>http://localhost:1313/posts/my-journey-to-melbourne/</link>
-      <pubDate>Fri, 15 Mar 2024 10:00:00 +1100</pubDate>
-      <guid>http://localhost:1313/posts/my-journey-to-melbourne/</guid>
-      <description>A detailed account of my journey from visa application to arriving in Melbourne, including practical tips for flights, stopovers, and what to expect.</description>
+      <guid>http://localhost:62616/posts/day-1-arrival-melbourne/</guid>
+      <description>&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;Before going abroad, I had to go through several steps to get everything ready:&lt;/p&gt;
+&lt;h3 id=&#34;check-eligibility&#34;&gt;Check Eligibility&lt;/h3&gt;
+&lt;p&gt;Make sure you meet all the requirements.&lt;/p&gt;
+&lt;h3 id=&#34;fill-out-forms--pay-fees&#34;&gt;Fill Out Forms &amp;amp; Pay Fees&lt;/h3&gt;
+&lt;p&gt;Be careful when filling out forms—don&amp;rsquo;t just guess.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re unsure about a question, check it properly.&lt;/p&gt;
+&lt;p&gt;Honestly, I got a bit tired of the yes/no questions and just answered randomly.&lt;/p&gt;
+&lt;h3 id=&#34;medical-checkup&#34;&gt;Medical Checkup&lt;/h3&gt;
+&lt;p&gt;Complete the required health examination.&lt;/p&gt;
+&lt;h3 id=&#34;wait-for-notification&#34;&gt;Wait for Notification&lt;/h3&gt;
+&lt;p&gt;Eventually, I received the S56 request, which confirmed my next steps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to My Australian Journey</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://localhost:62616/posts/first-post/</link>
       <pubDate>Fri, 08 Mar 2024 15:54:15 +0800</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>http://localhost:62616/posts/first-post/</guid>
       <description>&lt;h2 id=&#34;gday-welcome-to-my-australian-adventure&#34;&gt;G&amp;rsquo;day! Welcome to My Australian Adventure&lt;/h2&gt;
 &lt;p&gt;Hello and welcome to my personal blog! I&amp;rsquo;m Max, and this is where I&amp;rsquo;ll be documenting my life, work, and adventures in Australia.&lt;/p&gt;
 &lt;h3 id=&#34;why-this-blog&#34;&gt;Why This Blog?&lt;/h3&gt;
