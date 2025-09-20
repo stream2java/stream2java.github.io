@@ -1,8 +1,9 @@
 baseURL = "https://stream2java.github.io/"
-title = "My New Hugo Site"
+title = "Max's Life in Australia"
 theme = "PaperMod"
+languageCode = "en"
 
-# PaperMod 主題的一些基本設定
+# PaperMod theme basic settings
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -10,6 +11,10 @@ buildExpired = false
 
 [params]
   env = "production"
+  title = "Life in Australia"
+  description = "Recording my life experiences, work, and travels in Australia"
+  keywords = ["Australia", "life", "work", "travel", "blog"]
+  author = "Max"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -18,3 +23,32 @@ buildExpired = false
   ShowCodeCopyButtons = true
   ShowRssButtonInSectionTermList = true
   ShowToc = true
+  ShowWordCount = true
+  ShowLastMod = true
+
+[params.homeInfoParams]
+  Title = "Welcome to My Australian Journey"
+  Content = "Documenting my life experiences, work adventures, and travel discoveries in Australia."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/stream2java"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
