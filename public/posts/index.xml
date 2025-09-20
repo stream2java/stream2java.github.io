@@ -1,20 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Max&#39;s Life in Australia</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Max&#39;s Life in Australia</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 15:54:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 10:00:00 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>Day 1: Landing in Melbourne</title>
+      <link>http://localhost:1313/posts/day-1-arrival-melbourne/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 +1100</pubDate>
+      <guid>http://localhost:1313/posts/day-1-arrival-melbourne/</guid>
+      <description>&lt;h2 id=&#34;just-landed&#34;&gt;Just Landed&lt;/h2&gt;
+&lt;p&gt;Finally made it to Melbourne after the long journey via Singapore.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Today&amp;rsquo;s essentials:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Got local SIM card&lt;/li&gt;
+&lt;li&gt;✅ Found dinner&lt;/li&gt;
+&lt;li&gt;✅ Made it to hostel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The airport was bigger than expected, and everyone&amp;rsquo;s accent is definitely going to take some getting used to!&lt;/p&gt;
+&lt;p&gt;First meal: grabbed something quick near the hostel. Too tired to be picky.&lt;/p&gt;
+&lt;p&gt;Tomorrow: figure out the city layout and maybe find a proper coffee.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Travel Experience: From Application to Melbourne</title>
+      <link>http://localhost:1313/posts/my-journey-to-melbourne/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 +1100</pubDate>
+      <guid>http://localhost:1313/posts/my-journey-to-melbourne/</guid>
+      <description>A detailed account of my journey from visa application to arriving in Melbourne, including practical tips for flights, stopovers, and what to expect.</description>
+    </item>
+    <item>
+      <title>Welcome to My Australian Journey</title>
       <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Fri, 08 Mar 2024 15:54:15 +0800</pubDate>
       <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
-&lt;p&gt;This is my first blog post!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;gday-welcome-to-my-australian-adventure&#34;&gt;G&amp;rsquo;day! Welcome to My Australian Adventure&lt;/h2&gt;
+&lt;p&gt;Hello and welcome to my personal blog! I&amp;rsquo;m Max, and this is where I&amp;rsquo;ll be documenting my life, work, and adventures in Australia.&lt;/p&gt;
+&lt;h3 id=&#34;why-this-blog&#34;&gt;Why This Blog?&lt;/h3&gt;
+&lt;p&gt;Moving to a new country is both exciting and challenging. I wanted to create a space where I can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Share experiences&lt;/strong&gt; - The good, the bad, and the unexpectedly wonderful&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Document memories&lt;/strong&gt; - From everyday moments to major milestones&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Connect with others&lt;/strong&gt; - Whether you&amp;rsquo;re also living in Australia or just curious about life here&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Track my growth&lt;/strong&gt; - Both personal and professional development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-to-expect&#34;&gt;What to Expect&lt;/h3&gt;
+&lt;p&gt;You&amp;rsquo;ll find posts about:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

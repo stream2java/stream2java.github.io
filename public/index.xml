@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Welcome to My Blog on My New Hugo Site</title>
+    <title>Welcome to My Blog on Max&#39;s Life in Australia</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to My Blog on My New Hugo Site</description>
+    <description>Recent content in Welcome to My Blog on Max&#39;s Life in Australia</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 15:54:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 10:00:00 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>417 Working Holiday Visa: From Application to Departure</title>
+      <link>http://localhost:1313/posts/day-1-arrival-melbourne/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 +1100</pubDate>
+      <guid>http://localhost:1313/posts/day-1-arrival-melbourne/</guid>
+      <description>&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;Before going abroad, I had to go through several steps to get everything ready:&lt;/p&gt;
+&lt;h3 id=&#34;check-eligibility&#34;&gt;Check Eligibility&lt;/h3&gt;
+&lt;p&gt;Make sure you meet all the requirements.&lt;/p&gt;
+&lt;h3 id=&#34;fill-out-forms--pay-fees&#34;&gt;Fill Out Forms &amp;amp; Pay Fees&lt;/h3&gt;
+&lt;p&gt;Be careful when filling out forms—don&amp;rsquo;t just guess.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re unsure about a question, check it properly.&lt;/p&gt;
+&lt;p&gt;Honestly, I got a bit tired of the yes/no questions and just answered randomly.&lt;/p&gt;
+&lt;h3 id=&#34;medical-checkup&#34;&gt;Medical Checkup&lt;/h3&gt;
+&lt;p&gt;Complete the required health examination.&lt;/p&gt;
+&lt;h3 id=&#34;wait-for-notification&#34;&gt;Wait for Notification&lt;/h3&gt;
+&lt;p&gt;Eventually, I received the S56 request, which confirmed my next steps.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to My Australian Journey</title>
       <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Fri, 08 Mar 2024 15:54:15 +0800</pubDate>
       <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
-&lt;p&gt;This is my first blog post!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;gday-welcome-to-my-australian-adventure&#34;&gt;G&amp;rsquo;day! Welcome to My Australian Adventure&lt;/h2&gt;
+&lt;p&gt;Hello and welcome to my personal blog! I&amp;rsquo;m Max, and this is where I&amp;rsquo;ll be documenting my life, work, and adventures in Australia.&lt;/p&gt;
+&lt;h3 id=&#34;why-this-blog&#34;&gt;Why This Blog?&lt;/h3&gt;
+&lt;p&gt;Moving to a new country is both exciting and challenging. I wanted to create a space where I can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Share experiences&lt;/strong&gt; - The good, the bad, and the unexpectedly wonderful&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Document memories&lt;/strong&gt; - From everyday moments to major milestones&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Connect with others&lt;/strong&gt; - Whether you&amp;rsquo;re also living in Australia or just curious about life here&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Track my growth&lt;/strong&gt; - Both personal and professional development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-to-expect&#34;&gt;What to Expect&lt;/h3&gt;
+&lt;p&gt;You&amp;rsquo;ll find posts about:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

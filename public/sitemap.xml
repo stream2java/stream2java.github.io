@@ -2,17 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2024-03-08T15:54:15+08:00</lastmod>
+    <loc>http://localhost:1313/tags/arrival/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/daily/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/day-1-arrival-melbourne/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/day1/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/journey/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/melbourne/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-journey-to-melbourne/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/singapore/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/travel/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/visa/</loc>
+    <lastmod>2024-03-15T10:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/australia/</loc>
+    <lastmod>2024-03-08T15:54:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/introduction/</loc>
+    <lastmod>2024-03-08T15:54:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/life/</loc>
+    <lastmod>2024-03-08T15:54:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2024-03-08T15:54:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2024-03-08T15:54:15+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
